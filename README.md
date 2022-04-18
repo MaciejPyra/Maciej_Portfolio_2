@@ -1,5 +1,5 @@
 # Maciej_Portfolio_2
 
-Data Science portfolio provides examples of performed projects including regression and classification machine learning models, deep learning and other programming-related tasks, e.g. Web scraping.
+My portfolio website provides examples of performed data science and programming projects.
 
-To visit the abovementioned portfolio click on this link: https://maciejpyra.github.io/Maciej_Portfolio_2/
+To visit the abovementioned website click on my [Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
